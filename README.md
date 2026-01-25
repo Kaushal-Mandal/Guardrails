@@ -1,1 +1,1 @@
-configure guardrail and add API Key in env file. 
+configure guardrail and add Guardrail API Key in env file. 
